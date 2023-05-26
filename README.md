@@ -1,2 +1,2 @@
 # opsec
-A simple research on OPSEC in both Military and Red Teaming
+A summary on Operation Security (OPSEC) in both Military and Red Teaming
